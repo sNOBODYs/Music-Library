@@ -48,7 +48,7 @@ This is a one-time operation unless you **terminate** the **server** at any poin
 **Test result** will be desplayed in the **terminal**, along detailed information about encountered problems. 
 You can perform this operation as many times as it is necessary by re-running the above command.
 
-![alt text](<../Screenshot 2024-02-23 120952.png>)
+![alt text](<../Screenshot 2024-02-23 122902.png>)
 
 ## Music Library RESTful API
 
