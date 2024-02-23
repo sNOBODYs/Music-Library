@@ -11,27 +11,27 @@ The **application** allows **visitors** to **browse** through the **albums catal
 The **SPA**"**Music Library**" is an app fro creating **catalog** of **albums**.
   - Technologies: JavaScript, HTML,CSS,Node.js,Express.js,Mocha,Chai
 
-##Pages and permissions
+## Pages and permissions
 
 **All users** :lock:
--:pushpin: Home `/home`
+- :pushpin: Home `/home`
 ![alt text](<../Screenshot 2024-02-23 113417.png>)
--:pushpin: DashBoard `dashboard`
+- :pushpin: DashBoard `dashboard`
 ![alt text](<../Screenshot 2024-02-23 113429.png>)
--:pushpin: Details `/details/:id` 
+- :pushpin: Details `/details/:id` 
 ![alt text](image.png)
--:pushpin: Login `/login`
+- :pushpin: Login `/login`
 ![alt text](<../Screenshot 2024-02-23 113410.png>)
--:pushpin: Register `/register`
+- :pushpin: Register `/register`
 ![alt text](<../Screenshot 2024-02-23 113357.png>)
 
-##Authentication users :lock_with_ink_pen:
+## Authentication users :lock_with_ink_pen:
 
--:pushpin: Dashboard `/dashBoard`
--:pushpin: Add Album (Singer/Band + Album + Image URL + Release date + Label + Sales): `/create`
--:pushpin: Album Details: `/details/:id`
--:pushpin:Edit Album(only if user is owner): (Singer/Band + Album + Image URL + Release date + Label + Sales): `/edit/:id`
--:pushpin: Delete Album (only if user is owner): `/delete/:id`
+- :pushpin: Dashboard `/dashBoard`
+- :pushpin: Add Album (Singer/Band + Album + Image URL + Release date + Label + Sales): `/create`
+- :pushpin: Album Details: `/details/:id`
+- :pushpin:Edit Album(only if user is owner): (Singer/Band + Album + Image URL + Release date + Label + Sales): `/edit/:id`
+- :pushpin: Delete Album (only if user is owner): `/delete/:id`
 
 ## How to start the application?
 
